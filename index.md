@@ -7,7 +7,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sed ligula iaculis
 
 ![](keyboard-instrument-436488__340.jpg)
 
-[ ](
+[mmmm Stats!](champion.gg)
 
 Aenean pellentesque blandit nisi, quis eleifend risus viverra vehicula. Curabitur venenatis vitae urna eget tempor. Morbi tempor mattis nunc, sit amet porttitor mauris laoreet eget. Fusce vel sem rutrum, ullamcorper nibh id, aliquet turpis. Nulla ac sodales diam. Nam viverra vitae enim id mattis. In mauris quam, vulputate nec ex ac, tincidunt rutrum est. Morbi pretium lectus nec ante vestibulum, sit amet facilisis leo consequat. Nam quis vestibulum augue. Curabitur tincidunt urna vitae venenatis scelerisque. Donec laoreet lectus eros, at sagittis mauris lobortis ut. Suspendisse at sapien lacinia, hendrerit ligula nec, posuere lacus. Nullam vel nisl interdum, ultrices magna a, sagittis ex. Aliquam nec elit justo. Donec sit amet tellus odio. Aliquam erat volutpat. 
 
