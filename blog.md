@@ -24,7 +24,8 @@ Feel free to change the height and width values or other styling below: -->
 (Figure1. "Digital" and "Race")
 
   To provide an example of what I mean when talking about the bias of visualizations, figure 1 above shows the most common words in the McPherson article, but i want to focus on the correlation between the words "Digital" and "Race" which both follow a very similar path. As a visualization in this form, the data loses its context, and we are left with a seemingly unbiased correlation. However, as the contexts drops, it is opened up to greater interpretation. From this visualization, It might be possible to create an argument or narrative that uses the elements of race and digital in a way that McPherson never intended in her article, but someone else may look at this, and put their own context, their own narrative to it in order for it to fit their own argument. As a result, a simple visualization of two words can be seen as biased, because of both its openness to interpretation, and in its content.
-I think it is important for us as not just digital humanists, but as consumers of content, to be aware of how bias and context affect the data and digital content we interact with on a daily basis, and be aware of not just what data you are being shown, but also the data you are not being shown. 
+  
+   I think it is important for us as not just digital humanists, but as consumers of content, to be aware of how bias and context affect the data and digital content we interact with on a daily basis, and be aware of not just what data you are being shown, but also the data you are not being shown. 
 
 Works Cited: 
 
