@@ -1,6 +1,6 @@
 # Context and Bias
 
-   In McPherson's article Why Are the Digital Humanities So White? Or Thinking the Histories of Race and Computation, she takes the long way round in her analysis of just that question. To be honest, I probably don’t have the greatest handle on some of her points, but one point that will be my main topic of discussion for this post will be context and bias. Digital humanities as a field has the capability of acquiring and utilizing very large sets of data, but it isn't just what we do with the data as digital humanists that matter, but rather, how we look at it, and understand the reasoning and context behind the data.  
+   In McPherson's article 'Why Are the Digital Humanities So White? Or Thinking the Histories of Race and Computation', she takes the long way round in her analysis of just that question. To be honest, I probably don’t have the greatest handle on some of her points, but one point that will be my main topic of discussion for this post will be context and bias. Digital humanities as a field has the capability of acquiring and utilizing very large sets of data, but it isn't just what we do with the data as digital humanists that matter, but rather, how we look at it, and understand the reasoning and context behind the data.  
 
   The reason I chose to respond on McPherson's article in relation to context and bias is because she tries to make the connection between the largely white male dominated IT industry of the present, and racial discrimination of the 60's. She does this by looking at the context of the time period (1960's) when early programmers were developing the UNIX operating system. A fundamental point of her argument is that the culture of that era affected how the early programmers developed UNIX, and as a result, today we can see the effects of a more discriminatory culture reflected in todays digital humanities, and the IT industry.
 
@@ -11,8 +11,15 @@
   In comparing McPherson's argument to Drucker's article, Humanities Approaches to Graphical Display, I feel as though Drucker takes an approach that is similar in terms of bias, but opposite in terms 
 of context. Drucker's use of graphs takes data, and presents it in a visualization that is void of much context. This may be seen as an attempt to keep an unbiased standpoint, but in fact in does the opposite. Graphs can be just as biased as selective contextualization, as the parameters of the graph affect in which way data is represented.  
 
-<iframe style='width: 100%; height: 800px' src='//https://voyant-tools.org/?corpus=811fedcfde3ad01392d9548b5a3d9122&query=digital&query=race&withDistributions=raw&docIndex=0&mode=document&view=Trends'>
-</iframe>
+
+<!--	Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 100%; height: 800px' src='//voyant-tools.org/?view=Trends&corpus=811fedcfde3ad01392d9548b5a3d9122'></iframe>
+
 (Figure1. "Digital" and "Race")
 
   To provide an example of what I mean when talking about the bias of visualizations, figure 1 above shows the correlation between the words "Digital (Blue)" and "Race (Green)" in McPherson's article. As a visualization in this form, the data loses its context, and we are left with a seemingly unbiased correlation. However, as the contexts drops, it is opened up to greater interpretation. From this visualization, It might be possible to create an argument or narrative that uses the elements of race and digital in a way that McPherson never intended in her article, but someone else may look at this, and put their own context, their own narrative to it in order for it to fit their own argument. As a result, a simple visualization of two words can be seen as biased, because of both its openness to interpretation, and in its content.
