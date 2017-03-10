@@ -10,4 +10,4 @@ I like pizza, chips, iced tea, long walks on the beach, and a damn good game of 
 
 ### Blog Post
 
-[continue reading](2p02BlogPost)
+[Context and Bias](2p02BlogPost)
