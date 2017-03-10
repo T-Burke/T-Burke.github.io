@@ -18,7 +18,8 @@ http and https sites, but if you're embedding this into a local web page (file p
 you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 100%; height: 800px' src='//voyant-tools.org/?view=Trends&corpus=811fedcfde3ad01392d9548b5a3d9122'></iframe>
+<iframe style='width: 100%; height: 800px' src='//voyant-tools.org/?view=Trends&corpus=811fedcfde3ad01392d9548b5a3d9122'></iframe> 
+
 
 (Figure1. "Digital" and "Race")
 
