@@ -7,11 +7,6 @@ I like pizza, chips, iced tea, long walks on the beach, and a damn good game of 
 
 
 
-[mmmm Stats!](champion.gg)
-
-
-
-
 
 ### Blog Post
 
