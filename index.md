@@ -12,6 +12,6 @@ I like pizza, chips, iced tea, long walks on the beach, and a damn good game of 
 
 ### Solo Presentation
 
-[Slides](index.html)
+[Slides](slides.html)
 
 
