@@ -10,4 +10,8 @@ I like pizza, chips, iced tea, long walks on the beach, and a damn good game of 
 
 [Context and Bias](blog)
 
+### Solo Presentation
+
+[Slides](index.html)
+
 
