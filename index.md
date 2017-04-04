@@ -1,17 +1,27 @@
 # IASC 2P02 | Thomas Burke
 
-### About me
+### Research Statement 
 
-Thomas here! Im just a second year IASC student still trying to figure out what he wants to do after graduating. 
-I like pizza, chips, iced tea, long walks on the beach, and a damn good game of League of Legends.
+Greetings! My name is Thomas Burke and I am  a second year IASC student at Brock University.
+
+### Featured Project
 
 
-### Blog Post
+
+### Collaborative Project
+
+### Research Presentation
+
+[Slides](reveal/index.html)
+
+### Academic Blog
 
 [Context and Bias](blog)
 
-### Solo Presentation
 
-[Slides](reveal/index.html)
+
+
+
+
 
 
