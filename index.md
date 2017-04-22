@@ -10,6 +10,7 @@ Greetings! My name is Thomas Burke and I am a second year Interactive Arts and S
 ![](pictures/car-phones-1476934848288.jpg)
 
 [Hello Car Phone!](reveal/index.html)
+(press 'S' to view my speaker notes that go along with the slides!) 
 
 This goal of this project was to research an outdated piece of media, in this case, the car phone, and present my findings. In the project I try to go in chronological order through the development, changes, and eventual obsolescence of the car phone, as well as trying to explain its significance to the time period. I also describe how important the car phone was to the development of media devices today. The most interesting correlation I found was the connection between the development of a mobile phone, and the automobile. At the time, the car was the only platform able to meet the needs of a telephone that was not anchored to a home. I believe the significance of my research is that it shows that new media technology is not just inspired and built of the back of already existing media technology, but instead can be built off of other, seemingly unrelated systems and infrastructures, just like the car was a base for the development for the mobile telephone in my presentation
 
