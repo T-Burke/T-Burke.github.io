@@ -18,7 +18,7 @@ Going in to this project I did not know much about the car phone. I only knew th
 
 ### Research Presentation
 
-[Slides](reveal/index.html)
+[Hello Car Phone!](reveal/index.html)
 
 ### Academic Blog
 
