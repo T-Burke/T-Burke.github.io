@@ -18,6 +18,12 @@ Going in to this project I did not know much about the car phone. I only knew th
 
 ### Collaborative Project
 
+
+
+For my collaborative project, I worked with my team members to explore the digital tool Neatline. Neatline is a tool that allows the creation of complex maps, image annotations, and narrative sequences. The challenges with Neatline is that it runs as a plugin for the Omeka platform, which requires knowledge in setting up data bases to configure correctly. Beyond that however, Neatline allows for powerful, and flexible data visualizations. Most of our time on the project was put into figuring out how to set up Neatline properly, as between our group members we did not have sufficient database knowledge to set it up without issues. After getting Neatline set up in a usable state, we looked at how we could apply the data from some of our course readings to Neatline.
+
+My approach to collaborative work, is to be the team player. By this, I mean I try to pick up the parts of the project that my team members may not want to do. I would rather have my team members work on parts of the project  that they are strongest and most comfortable at, so they can produce the best work they can. This is something small I can do that can help produce a better final result, and is something I learned from playing team based competitive video games such as League of Legends and Overwatch. The second thing I try to do when working in a team is to take a leadership role, when none currently exists, or when the group begins to lose focus and stray away from the main goal of the project. This group oriented mindset is represented in my work in the group project. I picked up the 'grunt work' of the project. This involved doing research into the tool and the people and organizations behind it, as well as setting up the slideshow for our presentation. Through discussions about the project with my team members, there was a lot of great discussion about the possibilities and outcomes we could accomplish, however there were a couple times where I would have to step up to remind the group about the guidelines of the project, and to try get us to cover all the points of the project that was required. Other than group discussions, we shared all our work over google drive. This allowed any group member to see or contribute to the project whenever, from wherever, which helped a lot because of how difficult it can be to coordinate schedules between group members. 
+
 ### Research Presentation
 
 [Hello Car Phone!](reveal/index.html)
